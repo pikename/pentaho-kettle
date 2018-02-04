@@ -11,7 +11,7 @@
   <parent>
     <artifactId>pdi-assemblies</artifactId>
     <groupId>org.pentaho.di</groupId>
-    <version>8.1.0.0-SNAPSHOT</version>
+    <version>8.1.0.0-227</version>
   </parent>
 
   <properties>
@@ -19,13 +19,13 @@
     <rxjava.version>2.0.4</rxjava.version>
 
     <pdi-spark-driver.version>${project.version}</pdi-spark-driver.version>
-    <pdi-osgi-bridge.version>${project.version}</pdi-osgi-bridge.version>
-    <pentaho-database-model.version>${project.version}</pentaho-database-model.version>
-    <pentaho-registry.version>${project.version}</pentaho-registry.version>
-    <pentaho-metaverse.version>${project.version}</pentaho-metaverse.version>
-    <platform.version>${project.version}</platform.version>
-    <pentaho-reporting.version>${project.version}</pentaho-reporting.version>
-    <pentaho-hadoop-shims-api.version>${project.version}</pentaho-hadoop-shims-api.version>
+    <pdi-osgi-bridge.version>8.1.0.0-227</pdi-osgi-bridge.version>
+    <pentaho-database-model.version>8.1.0.0-227</pentaho-database-model.version>
+    <pentaho-registry.version>8.1.0.0-227</pentaho-registry.version>
+    <pentaho-metaverse.version>8.1.0.0-227</pentaho-metaverse.version>
+    <platform.version>8.1.0.0-227</platform.version>
+    <pentaho-reporting.version>8.1.0.0-227</pentaho-reporting.version>
+    <pentaho-hadoop-shims-api.version>81.2018.04.00-227</pentaho-hadoop-shims-api.version>
 
     <!-- third party -->
     <org.apache.karaf.main.version>3.0.3</org.apache.karaf.main.version>
